@@ -1,5 +1,4 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -51,13 +50,13 @@
 }
 
 body {
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
   background-color: hsl(var(--background));
   color: hsl(var(--foreground));
 }
 
 .form-gradient {
-  background: linear-gradient(135deg, #9b87f5 0%, #6E59A5 100%);
+  background: linear-gradient(135deg, #9b87f5 0%, #6e59a5 100%);
 }
 
 .form-container {
